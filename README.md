@@ -8,7 +8,7 @@ BookMyShow is a web application that allows users to book movie tickets.
             Our Project uses both local Storage and MongoDB for storing the selected data temporarly and permanently in database.
 
 Live Link :-
-project Link :https://pragati-book-my-show.netlify.app/
+project Link :https://book-my-show-mern-app-194e41.netlify.app/
 
 ## Technologies :
 This project uses the following technologies :-
